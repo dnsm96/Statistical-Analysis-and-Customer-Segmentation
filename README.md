@@ -1,4 +1,5 @@
 # Customer Purchase Behavior Analysis
+<img width="1024" height="366" alt="Customer-Segmentation" src="https://github.com/user-attachments/assets/e34465eb-8447-46bb-b7d7-77a656f1ab6e" />
 
 ## Problem Statement
 Welcome to this Probability and Statistics project! In this project, we analyze a real-world dataset containing customer information and purchasing behavior from a marketing campaign. The goal is to uncover patterns, trends, and correlations to help optimize marketing strategies and boost offer acceptance rates.
